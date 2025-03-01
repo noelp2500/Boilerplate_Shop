@@ -141,7 +141,7 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Noel's Boiler Plate Shop Repo
+            Noel's Boilerplate Shop Repo
           </a>
         </h3>
       </div>
